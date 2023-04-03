@@ -1,2 +1,2 @@
-# PavlovVR-Item-Meshes-Materials-FakeRefPack
+# PavlovVR-Item-MeshesMaterials-FakeRefPack
 Drag & Drop does the job!
